@@ -13,7 +13,7 @@ My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby.
 |  7  |  ✓  |     |     | graph traversal |
 |  8  |  ✓  |     |     | interpreter implementation |
 |  9  |  ✓  |     |     | array iteration |
-|  10 |     |     |     |  |
+|  10 |  ✓  |     |     | dynamic programming |
 |  11 |     |     |     |  |
 |  12 |     |     |     |  |
 |  13 |     |     |     |  |
