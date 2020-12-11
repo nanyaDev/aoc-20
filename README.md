@@ -14,7 +14,7 @@ My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby.
 |  8  |  ✓  |     |     | interpreter implementation |
 |  9  |  ✓  |     |     | array iteration |
 |  10 |  ✓  |     |     | dynamic programming |
-|  11 |     |     |     |  |
+|  11 |  ✓  |     |     | cellular automata |
 |  12 |     |     |     |  |
 |  13 |     |     |     |  |
 |  14 |     |     |     |  |
