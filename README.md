@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby.
+My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby. Aiming to make leaderboards next year! 🎄
 
 | #  | title                   | rb | py | cpp | genre                      | notes |
 |----|-------------------------|----|----|-----|----------------------------|-------|
@@ -26,6 +26,6 @@ My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby.
 | 20 | Jurassic Jigsaw         | ✓  |    |     |                            |       |
 | 21 | Allergen Assessment     | ✓  |    |     |                            |       |
 | 22 | Crab Combat             | ✓  |    |     |                            |       |
-| 23 | Crab Cups               |    |    |     |                            |       |
-| 24 | Lobby Layout            |    |    |     |                            |       |
+| 23 | Crab Cups               | ✓  |    |     |                            |       |
+| 24 | Lobby Layout            | ✓  |    |     |                            |       |
 | 25 |                         |    |    |     |                            |       |
