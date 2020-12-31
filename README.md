@@ -1,6 +1,6 @@
-# Advent of Code 2020
+# 🎄 Advent of Code 2020 🎄
 
-My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby. Aiming to make leaderboards next year! 🎄
+My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby. 
 
 | #  | title                              | genre                      | notes |
 |----|------------------------------------|----------------------------|-------|
