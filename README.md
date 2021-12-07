@@ -2,33 +2,33 @@
 
 My solutions to [Advent of Code](https://adventofcode.com/) 2020 in Ruby. 
 
-| #  | title                              | genre                      | notes |
-|----|------------------------------------|----------------------------|-------|
-| 1  | [Report Repair][01rb]              | array iteration            |       |
-| 2  | [Password Philosophy][02rb]        | string parsing             |       |
-| 3  | [Toboggan Trajectory][03rb]        | input validation           |       |
-| 4  | [Passport Processing][04rb]        | grid iteration             |       |
-| 5  | [Binary Boarding][05rb]            | algorithm implementation   |       |
-| 6  | [Custom Customs][06rb]             | set operations             |       |
-| 7  | [Handy Haversacks][07rb]           | graph traversal            |       |
-| 8  | [Handheld Halting][08rb]           | interpreter implementation |       |
-| 9  | [Encoding Error][09rb]             | array iteration            |       |
-| 10 | [Adapter Array][10rb]              | dynamic programming        |       |
-| 11 | [Seating System][11rb]             | cellular automata          |       |
-| 12 | [Rain Risk][12rb]                  |                            |       |
-| 13 | [Shuttle Search][13rb]             |                            |       |
-| 14 | [Docking Data][14rb]               |                            |       |
-| 15 | [Rambunctious Recitation][15rb]    |                            |       |
-| 16 | [Ticket Translation][16rb]         |                            |       |
-| 17 | [Conway Cubes][17rb]               |                            |       |
-| 18 | [Operation Order][18rb]            |                            |       |
-| 19 | [Monster Messages][19rb]           |                            |       |
-| 20 | [Jurassic Jigsaw][20rb]            |                            |       |
-| 21 | [Allergen Assessment][21rb]        |                            |       |
-| 22 | [Crab Combat][22rb]                |                            |       |
-| 23 | [Crab Cups][23rb]                  |                            |       |
-| 24 | [Lobby Layout][24rb]               |                            |       |
-| 25 | [Combo Breaker][25rb]              |                            |       |
+| #  | Title                              | Rank   |
+|----|------------------------------------|--------|
+| 1  | [Report Repair][01rb]              |        |
+| 2  | [Password Philosophy][02rb]        |        |
+| 3  | [Toboggan Trajectory][03rb]        |        |
+| 4  | [Passport Processing][04rb]        |        |
+| 5  | [Binary Boarding][05rb]            |        |
+| 6  | [Custom Customs][06rb]             |        |
+| 7  | [Handy Haversacks][07rb]           |        |
+| 8  | [Handheld Halting][08rb]           |        |
+| 9  | [Encoding Error][09rb]             |        |
+| 10 | [Adapter Array][10rb]              |        |
+| 11 | [Seating System][11rb]             |        |
+| 12 | [Rain Risk][12rb]                  |        |
+| 13 | [Shuttle Search][13rb]             |        |
+| 14 | [Docking Data][14rb]               |        |
+| 15 | [Rambunctious Recitation][15rb]    |        |
+| 16 | [Ticket Translation][16rb]         |        |
+| 17 | [Conway Cubes][17rb]               |        |
+| 18 | [Operation Order][18rb]            |        |
+| 19 | [Monster Messages][19rb]           |        |
+| 20 | [Jurassic Jigsaw][20rb]            |        |
+| 21 | [Allergen Assessment][21rb]        |        |
+| 22 | [Crab Combat][22rb]                |        |
+| 23 | [Crab Cups][23rb]                  |        |
+| 24 | [Lobby Layout][24rb]               |        |
+| 25 | [Combo Breaker][25rb]              |        |
 
 
 [01rb]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day01.rb
